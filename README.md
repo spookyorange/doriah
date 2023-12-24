@@ -1,7 +1,18 @@
-# Tauri + Vue 3
+# doriah: The based way to do things!
 
-This template should help get you started developing with Tauri + Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+doriah is under development, stay tuned!
 
-## Recommended IDE Setup
+## What is doriah?
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+This will basically be an application that lets you run predefined scripts from your selected server, the standalone server is not yet available, but it will be available soon, both in DockerHub and in Github if you want to build it yourself.
+
+## Technologies
+
+- Tauri
+- Rust
+- Bun
+- Vue.js
+
+## How to develop
+
+No information yet, but you may run "bun run tauri dev" to run the application in development mode.
